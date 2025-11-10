@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+[build.environment]
+  # Ensure devDependencies (like @craco/craco) are installed on Netlify so the CRACO build command works
+  NPM_FLAGS = "--production=false"
+  YARN_FLAGS = "--production=false"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  force = true
