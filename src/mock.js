@@ -5,8 +5,8 @@ export const companyInfo = {
   tagline: "From Farmers and Rural Artisans to the World.",
   location: "Bengaluru, India",
   email: "contact@theglobalGateway.in",
-  whatsapp: "9538446588",
-  address: "123 Export Plaza, MG Road, Bengaluru, Karnataka 560001, India",
+  whatsapp: "8073470770",
+  address: "Kengeri, Bengaluru, Karnataka 560069, India",
   mission: "To empower farming and artisan communities through fair trade and ethical global export practices.",
   vision: "A world where sustainable products and rural craftsmanship reach every market.",
   about: "Global Gateway is a start-up exporter from Bengaluru, India, connecting farmers and rural artisans across southern India with global buyers. We specialize in premium-quality organic spices, coffee, tea, and eco-friendly handmade products like jute bags, bamboo baskets, and woven crafts."
