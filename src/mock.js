@@ -125,7 +125,7 @@ export const exportDestinations = [
 ];
 
 export const socialLinks = [
-  { platform: "LinkedIn", url: "https://linkedin.com" },
-  { platform: "Instagram", url: "https://instagram.com" },
-  { platform: "Facebook", url: "https://facebook.com" }
+  // { platform: "LinkedIn", url: "https://linkedin.com/globalgateway_india" },
+  { platform: "Instagram", url: "https://instagram.com/globalgateway_india" },
+  { platform: "Facebook", url: "https://facebook.com/globalgateway_india" }
 ];

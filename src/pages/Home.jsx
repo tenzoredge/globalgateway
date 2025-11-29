@@ -12,7 +12,7 @@ const Home = () => {
       <section className="relative h-[600px] lg:h-[700px] overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="https://images.unsplash.com/photo-1686928170205-84f0650c7e2f?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format?w=1920&h=1080&fit=crop"
+            src="https://images.unsplash.com/photo-1753652735948-47b47c1d5713?auto=format?w=1920&h=1080&fit=crop"
             alt="Spice farm"
             className="w-full h-full object-cover"
           />
@@ -165,7 +165,7 @@ const Home = () => {
             
             <div className="relative">
               <img
-                src="https://images.unsplash.com/photo-1464226184884-fa280b87c399?w=800&h=1000&fit=crop"
+                src="https://images.unsplash.com/photo-1640551724267-9b84c715aa35?w=800&h=1000&fit=crop"
                 alt="Farmers working"
                 className="rounded-lg shadow-2xl"
               />
